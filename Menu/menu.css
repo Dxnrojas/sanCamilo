@@ -50,7 +50,20 @@
     background-color:#D1A24A;
     color: white;
     text-decoration: none;
+    height: 10rem;
+    width: 16rem;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
 }
+.menuvertical__texto {
+    color: white;
+    text-decoration: none;
+}
+.menuvertical__texto :hover {
+    color:  #2F4550;
+    transition: 0.1s;
+} 
+
 
 .navIcon {
     width: 1.875rem;
